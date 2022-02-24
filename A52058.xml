@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to the Royalists or Caveliers &amp;c.</title>
+            <author>R. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52058</idno>
+            <idno type="STC">Wing M78A</idno>
+            <idno type="STC">ESTC R31144</idno>
+            <idno type="EEBO-CITATION">11780765</idno>
+            <idno type="OCLC">ocm 11780765</idno>
+            <idno type="VID">49042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49042)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1487:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to the Royalists or Caveliers &amp;c.</title>
+                  <author>R. M.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>166-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: R. M.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49042:1"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="1" facs="tcp:49042:1"/>
+            <!-- PDF PAGE 30 -->
+            <head>A word to the <hi>Royaliſts,</hi> or <hi>Caveliers, &amp;c.</hi>
+            </head>
+            <p>GIVE ear ye ſons of <hi>Sodom,</hi> and draw neer and harken ye wanton daughters of <hi>Babylon;</hi> for the Lords controver<g ref="char:EOLhyphen"/>ſie is againſt you, and where will ye be able to ſtand, or where will ye have your glory when the dreadful God of Heaven ſhall appear, to render a recompence unto his Enemies; yea then where will the proud leave his glory, or what profit will the ſons of vanity have of their pleaſure; for the acceptable year of the Lord is come neer to an end, and the day of his vengeance approacheth &amp; his long patience hath much been abuſed by you, &amp; his fierce wrath is ready to kindle; for you have nouriſhed your hearts as for a day of ſlaughter, and you have caſt forth your abominations as an overflowing Fountain, yea <hi>Sodom</hi> came ſhort of your wickedneſs, and the children of <hi>Gomorrha</hi> might be juſtified by you, Oh! how doth your pride and your ambition appear in the ſtreets of every Town &amp; City; yea, becauſe of Oaths the Land mourns, &amp; the Lord beholds your ſecret whoredoms, &amp; your open riotouſneſs &amp; drunkeneſs is not hid from him: &amp; what think you will the end of theſe things be? will not the Lord be avenged of ſuch a generation as this? yea aſſuredly you are fit<g ref="char:EOLhyphen"/>ting your ſelves as veſſels for deſtruction, for it is already entred into your borders, and deſolation is compaſſing you round a<g ref="char:EOLhyphen"/>bout, and unleſs you ſpedily repent you cannot ſhun it, and if you defer repentance but yet a little ſeaſon, the day is haſtening that you ſhall ſeek it with tears and ſhall not finde it; therefore hear this you hard hearted ones and ſtiff necked, who rebel a<g ref="char:EOLhyphen"/>gainſt the Lord your maker, there is a day haſtening, and an hour approaching, which will make you gnaſh your teeth for very an<g ref="char:EOLhyphen"/>guiſh, and weepe and howl for very ſorrow, to conſider how you have ſlighted the day of your viſitation, and the things that be<g ref="char:EOLhyphen"/>long to your eternal peace, but then it will be too late. Oh!
+<pb n="2" facs="tcp:49042:2"/>
+               <!-- PDF PAGE 31 -->that you would yet be warned &amp; lay it to heart, and conſider be<g ref="char:EOLhyphen"/>fore the day of calamity and hour of your diſtreſs cometh up<g ref="char:EOLhyphen"/>on you: Oh! why will you periſh, or why will you provoke ſo merciful a God to break forth upon you, whoſe delight is not in the deſtruction of ſinners, but rather that they ſhould turn from their wickedneſs &amp; live. Oh remember <hi>Nineveh</hi> that great Ci<g ref="char:EOLhyphen"/>ty how ſoon they were warned to repentance! Oh that you would take them for an example I but if you continue in your abomina<g ref="char:EOLhyphen"/>tions and wickedneſs, and will not be allured by the tender mer<g ref="char:EOLhyphen"/>cies of the Lord, then this know, that his dreadful and terrible Judgements ſhall ſtrike dread and amazement upon your hearts, and affright you by the fearfulneſs thereof, and then you ſhall know that your deſtruction is of your ſelves, and ſhall be left without excuſe: Oh the vanity and lendneſs that is found a<g ref="char:EOLhyphen"/>mongſt you, it is hard to utter it; what ſpending, deſtroying, and waſting of the good creatures, is there daily upon your luſt, whilſt others are like to periſh in your ſtreets, with cold and hunger, for want of food &amp; rayment; and if the Lord ſhould viſit you with famine and peſtilence for the ſame, his judgments will be juſt upon you; for as you have known a day of his mercy held: forth unto you, ſo you muſt know a day of vengeance to come upon you, as an irreſiſtable flood which will ſwallow you up and none ſhall be able to deliver; and then you ſhall know you have been warned by ſuch who deſires the eternal good of your ſouls, yea then you ſhall know that it is in vain for bryers and thorns to ſet themſelves in battle againſt the Lord, when he ſhall paſs through you and burn you up, or for the potchards of the Earth to exalt themſelves againſt their Maker, when he ſhall take you and daſh you to peeces one againſt another; for he hath long been ſilent and held his peace, but if you amend not your lives with ſpeed, this know, he will ariſe and will utter his voice as a Lyon out of the Forreſt, and as a Bear bereaved of her whelps will he ſeize upon you, and then your proud lofty looks ſhall not daunt him nor make him affraid, for when he roareth out of <hi>Sion,</hi> his voyce will cauſe the beaſts of the field to trem<g ref="char:EOLhyphen"/>ble, for who may abide the day of his coming, or what is able to ſtand before him when he ſhall appear, for my God is a conſu<g ref="char:EOLhyphen"/>ming fire, and in his preſence is everlaſting burning; therefore hear and conſider all you forgetters of God, and you that put
+<pb n="3" facs="tcp:49042:2"/>
+               <!-- PDF PAGE 31 -->the day of his coming affar off; you that drink wine in bowls, and are mighty to drinke ſtrong drinke; you that chant at the noiſe of the Vyol, and rejoyce at the ſound of the Organ, the day is haſtening that inſtead of your muſick and ſongs you ſhall take up a bitter Lamentation, when there ſhall be none to pity you; yea my ſoul hath often mourned in ſecret, with the conſi<g ref="char:EOLhyphen"/>deration of the doleful day of deſolation which is comming up<g ref="char:EOLhyphen"/>on the wicked and adulterous generations, who have hardned their hearts againſt the Lord, and ſtopped their Ears that they might not hear reproof; for he that reprooveth ſin is become a prey un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o them, and thoſe who come to deny ungodlineſs in any meaſure is perſecuted by them, even by the ſeed of <hi>Cain,</hi> who is ſtill riſing up to ſlay righteous <hi>Abel</hi> and his innocent ſeed where ever it appears; but the cries of the ſufferings of the inno<g ref="char:EOLhyphen"/>cent hath pearced the clouds, and is come before the throne of the Almighty, and hath entred his Ears, and he is ariſing to make inquiſition for all the blood and ſufferings of the righteous, from Righteous <hi>Abel</hi> unto the day of his coming. Therefore woe un<g ref="char:EOLhyphen"/>to that Generation who have cauſed the innocent to ſuffer, yea woe and ſorrow will be their portion, but this the Lord delights not in, but rather that you may fly the wrath that is to come by a ſpeedy repentance, and forſaking the evil of your ways, therefore hath he born with you all this time, &amp; with-held his in<g ref="char:EOLhyphen"/>dignation from breaking forth upon you, and ſent his ſervants time after time, to warn you both by word and writing, and hath poured forth the Vials of his wrath upon an hypocritical Generation (in your ſight) who profeſſed him in words, but in their hearts rebelled againſt him; this hath the Lord done con<g ref="char:EOLhyphen"/>cerning you, yea he hath yet come nearer unto you, he hath rai<g ref="char:EOLhyphen"/>ſed up his faithful witneſs within your own conſciences to bear teſtimony againſt your ungodlineſs, and his righteous Spirit in your own hearts hath long ſtroven with you, but he hath ſaid, His Spirit ſhall not always ſtrive with man, and yet you make of all this a light thing, and as though he had done nothing con<g ref="char:EOLhyphen"/>cerning you, or as if there were no God to be feared, you ſtill ruſh on in the courſe of your ungodlineſs, glorying in your wicked<g ref="char:EOLhyphen"/>neſs, and making a mock of ſin, and you are filling up the mea<g ref="char:EOLhyphen"/>ſure of your iniquities, and it is almoſt full, for you are ready to cry peace and ſafety, but ſudden deſtruction is even at the door;
+<pb n="4" facs="tcp:49042:3"/>
+               <!-- PDF PAGE 32 -->for when the wicked crieth peace and ſafety, then ſudden de<g ref="char:EOLhyphen"/>ſtruction is at hand; yea if you can ſtop the ſun in his courſe, or the Sea from ebbing, and flowing, then may you ſtop and keep back the heavy and dreadful hand of the Almighty from falling upon you, except ye ſpeedily repent; for if you go on in the ex<g ref="char:EOLhyphen"/>ceſs of your ungodlineſs, you will aſſuredly know ſin ſhall not go unpuniſh'd; &amp; when your deſtruction and calamity comes up<g ref="char:EOLhyphen"/>on you, you ſhall then know that you have often been warned in tender bowels of compaſſion to turn from the Evil of your wayes.</p>
+            <closer>
+               <signed>This is from one who mourneth in ſecret for you, to conſider the day of your calamity which is comming as a flood, which will ſweep you into the nethermoſt Hell except you repent with ſpeed; yea this is given forth from one whom the Lord hath pulled as a brand out of the fire from amongſt you who are commonly called <hi>Royal<g ref="char:EOLhyphen"/>liſts,</hi> or <hi>Caveliers.</hi>
+R. M.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:49042:3"/>
+            <!-- PDF PAGE 32 -->
+         </div>
+      </body>
+   </text>
+</TEI>
